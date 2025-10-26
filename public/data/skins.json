@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "AK-47 | Redline",
+    "type": "Rifles",
+    "rarity": "Classified",
+    "price": 12.50,
+    "priceChange": 1.2,
+    "image": "/skins/ak47-redline.png",
+    "float": 0.12
+  },
+  {
+    "id": 2,
+    "name": "AWP | Dragon Lore",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-dragonlore.png",
+    "float": 0.03
+  },
+  {
+    "id": 3,
+    "name": "AK 47 | Vulcan",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-vulcan.png",
+    "float": 0.03
+  },
+  {
+    "id": 4,
+    "name": "AK 47 | Asiimov",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-asiimov.png",
+    "float": 0.03
+  },
+  {
+    "id": 5,
+    "name": "AK 47 | Case Hardened",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-casehardened.png",
+    "float": 0.03
+  },
+  {
+    "id": 6,
+    "name": "AK 47 | Serpiente Loca",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-fireserpent.png",
+    "float": 0.03
+  },
+  {
+    "id": 7,
+    "name": "AK 47 | Frente Brumoso",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-frentebrumoso.png",
+    "float": 0.03
+  },
+  {
+    "id": 8,
+    "name": "AK 47 | Hidroponica",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-hidroponic.png",
+    "float": 0.03
+  },
+  {
+    "id": 9,
+    "name": "AK 47 | Jaguar",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/ak47-jaguar.png",
+    "float": 0.03
+  },
+  {
+    "id": 10,
+    "name": "AUG | Camaleon",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/aug-camaleon.png",
+    "float": 0.03
+  },
+  {
+    "id": 11,
+    "name": "AUG | Artic Wolf",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/aug-articwolf.png",
+    "float": 0.03
+  },
+  {
+    "id": 12,
+    "name": "AWP | Asiimov",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-asiimov.png",
+    "float": 0.03
+  },
+  {
+    "id": 13,
+    "name": "AWP | Fade",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-fade.png",
+    "float": 0.03
+  },
+  {
+    "id": 14,
+    "name": "AWP | Grafito",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-grafito.png",
+    "float": 0.03
+  },
+  {
+    "id": 15,
+    "name": "AWP | Hyper Bestia",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-hyperbestia.png",
+    "float": 0.03
+  },
+  {
+    "id": 16,
+    "name": "AWP | Fallen",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-linearoja.png",
+    "float": 0.03
+  },
+  {
+    "id": 17,
+    "name": "AWP | Oni Taji",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-onitaji.png",
+    "float": 0.03
+  },
+  {
+    "id": 18,
+    "name": "AWP | PrintStream",
+    "type": "Snipers",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/awp-printstream.png",
+    "float": 0.03
+  },
+  {
+    "id": 19,
+    "name": "M4A1-S | PrintStream",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m4a1-s-printstream.png",
+    "float": 0.03
+  },
+  {
+    "id": 20,
+    "name": "M4A1-S | Hot Rod",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m4a1-s-hotrod.png",
+    "float": 0.03
+  },
+  {
+    "id": 21,
+    "name": "M4A1-S | Fade",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/M4A1-S-fade.png",
+    "float": 0.03
+  },
+  {
+    "id": 22,
+    "name": "M4A4 | Asiimov",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m4a4-asiimov.png",
+    "float": 0.03
+  },
+  {
+    "id": 23,
+    "name": "M4A4 | Dragon King",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m4a4-dragonking.png",
+    "float": 0.03
+  },
+  {
+    "id": 24,
+    "name": "M4A4 | Espacio Inhospito ",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m4a4-espacio inhospito.png",
+    "float": 0.03
+  }
+]
