@@ -1,62 +1,84 @@
-🎯 Proyecto: CS2 Skin Market Tracker
-🧩 Stack
+🧩 CS2Skin Market Tracker
 
-React / Next.js
+CS2Skin Market es una aplicación web desarrollada con React, Next.js, TailwindCSS y shadcn/ui que permite visualizar y explorar skins del videojuego Counter-Strike 2.
+La aplicación muestra información detallada de cada skin, su historial de precios y ofrece herramientas de búsqueda y filtrado por tipo de arma, todo basado en datos obtenidos desde un archivo JSON local.
 
-TailwindCSS
+🚀 Características principales
 
-shadcn/ui → para cards, botones, inputs, tabs, sidebar, modales
+🔍 Búsqueda y filtrado dinámico por tipo de arma o nombre de skin.
 
-Recharts → para mostrar gráficos de precios
+💰 Historial de precios y valor actual de cada skin.
 
-Framer Motion → para animaciones suaves
+🖼️ Visualización detallada con imágenes y datos clave.
 
-Mock API o CSFloat API → para datos de prueba de skins
+⚡ Interfaz moderna y responsiva, optimizada para escritorio y móvil.
 
-💡 Funciones principales (MVP)
+🧠 Datos cargados desde un JSON, sin necesidad de backend o base de datos externa.
 
-Home / Dashboard
+🎨 Diseño minimalista y limpio, construido con TailwindCSS y shadcn/ui.
 
-Lista de skins populares con su precio actual y variación.
+🛠️ Tecnologías utilizadas
 
-Cards animadas (shadcn Card + Motion).
+Tecnología	Descripción
 
-Botón “View Details”.
+Next.js	Framework de React para aplicaciones web rápidas y escalables.
 
-Skin Detail View
+React	Librería principal para la construcción de la interfaz.
 
-Imagen grande del skin.
+TailwindCSS	Framework CSS para un diseño ágil y responsivo.
 
-Nombre, rareza, tipo, y float value.
+shadcn/ui	Colección de componentes UI modernos basados en Radix y Tailwind.
 
-Gráfico de evolución de precio (Recharts).
+JSON Local	Fuente de datos para las skins y su historial de precios.
 
-Botón para añadir a favoritos (usa LocalStorage).
+📂 Estructura del proyecto
+cs2skin-market/
+│
+├── public/             # Imágenes y recursos estáticos
+├── data/               # Archivo JSON con la información de las skins
+├── components/         # Componentes reutilizables (cards, modales, etc.)
+├── pages/              # Rutas principales de la aplicación
+├── styles/             # Configuración de estilos globales
+├── utils/              # Funciones auxiliares (formateo, filtrado, etc.)
+└── README.md
 
-Search & Filter
+⚙️ Instalación y ejecución local
 
-Input de búsqueda (shadcn Input + Icon).
+Clonar el repositorio:
 
-Filtros por categoría o rareza (Dropdown o Tabs).
+git clone https://github.com/xgooddev/cs2skinmarkettracker
 
-Favorites Page
 
-Lista de skins marcados como favoritos.
+Instalar dependencias:
 
-Persistencia local.
+npm install
 
-🎨 UI / UX sugerido
 
-Header: título + buscador + icono de favoritos
+Iniciar el entorno de desarrollo:
 
-Sidebar (opcional): categorías (AK, AWP, Knife, etc.)
+npm run dev
 
-Cards:
 
-Imagen del skin centrada
+Abrir en el navegador:
 
-Precio actual y variación (+% o -%)
+http://localhost:3000
 
-Hover con animación sutil
+📸 Vista previa
 
-Color palette: oscuro con acentos dorados o cian (tema “pro market CS2”)
+
+
+💡 Próximas mejoras
+
+Integración con una API real de mercado de skins.
+
+Sistema de favoritos o wishlist.
+
+Comparador de precios entre distintas skins.
+
+Modo oscuro automático.
+
+👨‍💻 Autor
+
+Desarrollado por Gonzalo Espindola
+
+Front-End Developer con interés en crear experiencias web interactivas y funcionales.
