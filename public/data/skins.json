@@ -238,5 +238,619 @@
     "priceChange": -0.5,
     "image": "/skins/m4a4-espacio inhospito.png",
     "float": 0.03
+  },
+  {
+    "id": 25,
+    "name": "M4A4 | Full Throttle ",
+    "type": "Rifles",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m4a4-fulltrote.png",
+    "float": 0.03
+  },
+  {
+    "id": 26,
+    "name": "USPS | PrintStream ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/usps-printstream.png",
+    "float": 0.03
+  },
+  {
+    "id": 27,
+    "name": "USPS | Tropical ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/usps-tropical.png",
+    "float": 0.03
+  },
+  {
+    "id": 28,
+    "name": "USPS | Overgrowth ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/usps-overgrowth.png",
+    "float": 0.03
+  },
+  {
+    "id": 29,
+    "name": "USPS | Neonoir ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/usps-neonoir.png",
+    "float": 0.03
+  },
+  {
+    "id": 30,
+    "name": "USPS | Cortex ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/usps-cortex.png",
+    "float": 0.03
+  },
+  {
+    "id": 31,
+    "name": "Glock | Water Elemental  ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/glock-waterelemental.png",
+    "float": 0.03
+  },
+  {
+    "id": 32,
+    "name": "Glock | Lego ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/glock-lego.png",
+    "float": 0.03
+  },
+  {
+    "id": 33,
+    "name": "Glock | Neonoir ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/glock-neonoir.png",
+    "float": 0.03
+  },
+  {
+    "id": 34,
+    "name": "Glock | Franklin ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/glock-franklin.png",
+    "float": 0.03
+  },
+  {
+    "id": 35,
+    "name": "Desert Eagle | PrintStream ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/deserteagle-printstream.png",
+    "float": 0.03
+  },
+  {
+    "id": 36,
+    "name": "Desert Eagle | Naga ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/deserteagle-naga.png",
+    "float": 0.03
+  },
+  {
+    "id": 37,
+    "name": "Desert Eagle | Dragon Kumicho ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/deserteagle-dragonkumicho.png",
+    "float": 0.03
+  },
+  {
+    "id": 38,
+    "name": "Desert Eagle | Blaze ",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/deserteagle-blaze.png",
+    "float": 0.03
+  },
+  {
+    "id": 39,
+    "name": "Estiletto | Vegano ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/Estiletto-vegano.png",
+    "float": 0.03
+  },
+  {
+    "id": 40,
+    "name": "Paracord Knife | Marble Fade ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/paracordknife-marblefade.png",
+    "float": 0.03
+  },
+  {
+    "id": 41,
+    "name": "M9 Bayonet | Ultra Violeta ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m9bayonet-ultraviolet.png",
+    "float": 0.03
+  },
+  {
+    "id": 42,
+    "name": "M9 Bayonet | Marble Fade ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m9bayonet-marblefade.png",
+    "float": 0.03
+  },
+  {
+    "id": 43,
+    "name": "Karambit | Rust Coast ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/karambit-rustcoas.png",
+    "float": 0.03
+  },
+  {
+    "id": 44,
+    "name": "Karambit | Night ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/karambit-night.png",
+    "float": 0.03
+  },
+  {
+    "id": 45,
+    "name": "Mariposa | Black Night ",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/butterflyknife-blacknight.png",
+    "float": 0.03
+  },
+  {
+    "id": 46,
+    "name": "Danger Zone Case ",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/DangerZoneCase.png",
+    "float": 0.03
+  },
+  {
+    "id": 47,
+    "name": "Fever Case",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/fevercase.png",
+    "float": 0.03
+  },
+  {
+    "id": 48,
+    "name": "Operacion Bravo",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/operationbravo-case.png",
+    "float": 0.03
+  },
+  {
+    "id": 49,
+    "name": "Revolution Case",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/revolutioncase.png",
+    "float": 0.03
+  },
+  {
+    "id": 50,
+    "name": "Operacion Phoenix Case",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/operationphoenixcase.png",
+    "float": 0.03
+  },
+  {
+    "id": 51,
+    "name": "Sports Gloves | Vice",
+    "type": "Guantes",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/sportsgloves-vice.png",
+    "float": 0.03
+  },
+  {
+    "id": 52,
+    "name": "Hydra Gloves | Case Hardened",
+    "type": "Guantes",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/hydragloves-casehardened.png",
+    "float": 0.03
+  },
+  {
+    "id": 53,
+    "name": "Driver Gloves | King Snake",
+    "type": "Guantes",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/Drivergloves-kingsnake.png",
+    "float": 0.03
+  },
+  {
+    "id": 54,
+    "name": "Driver Gloves | Crimson Web",
+    "type": "Guantes",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/Drivergloves-Crimsonweb.png",
+    "float": 0.03
+  },
+  {
+    "id": 55,
+    "name": "Driver Gloves | Black and White",
+    "type": "Guantes",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/DriverGloves-Blackandwhite.png",
+    "float": 0.03
+  },
+  {
+    "id": 56,
+    "name": "Driver Especialist | Green Wood",
+    "type": "Guantes",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/DriverEspecialist-Greenwood.png",
+    "float": 0.03
+  },
+  {
+    "id": 57,
+    "name": "P90 | Nostalgia",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/p90-nostalgia.png",
+    "float": 0.03
+  },
+  {
+    "id": 58,
+    "name": "P90 | Madera loca",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/p90-maderaloca.png",
+    "float": 0.03
+  },
+  {
+    "id": 59,
+    "name": "P90 |Asiimov",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/p90-asiimov.png",
+    "float": 0.03
+  },
+   {
+    "id": 60,
+    "name": "MP9 | Hydra",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mp9-hydra.png",
+    "float": 0.03
+  },
+   {
+    "id": 61,
+    "name": "MP9 | HotRod",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mp9-hotrod.png",
+    "float": 0.03
+  },
+  {
+    "id": 62,
+    "name": "MP9 | Bulldozer",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mp9-bulldozer.png",
+    "float": 0.03
+  },
+  {
+    "id": 63,
+    "name": "Mac 10 | Ultravioleta",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mac10-ultravioleta.png",
+    "float": 0.03
+  },
+  {
+    "id": 64,
+    "name": "Mac 10 | Neon Rider",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mac10-neonrider.png",
+    "float": 0.03
+  },
+  {
+    "id": 65,
+    "name": "Mac 10 | Fade",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mac10-fade.png",
+    "float": 0.03
+  },
+  {
+    "id": 66,
+    "name": "Mac 10 | CatFight",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mac10-catfight.png",
+    "float": 0.03
+  },
+  {
+    "id": 67,
+    "name": "Mac 10 | Case Hardened",
+    "type": "SMGs",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mac10-casehardened.png",
+    "float": 0.03
+  },
+  {
+    "id": 68,
+    "name": "Mag 7 | Justice",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mag7-justice.png",
+    "float": 0.03
+  },
+  {
+    "id": 69,
+    "name": "Mag 7 | Heat",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mag7-heat.png",
+    "float": 0.03
+  },
+  {
+    "id": 70,
+    "name": "Mag 7 | Hazard",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mag7-hazard.png",
+    "float": 0.03
+  },
+  {
+    "id": 71,
+    "name": "Mag 7 | Bulldozer",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/mag7-hazard.png",
+    "float": 0.03
+  },
+  {
+    "id": 72,
+    "name": "Nova | Toysoldier",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/nova-toysoldier.png",
+    "float": 0.03
+  },
+  {
+    "id": 73,
+    "name": "Nova | Hyperbeast",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/nova-hyperbeast.png",
+    "float": 0.03
+  },
+  {
+    "id": 74,
+    "name": "Nova | Antique",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/nova-antique.png",
+    "float": 0.03
+  },
+  {
+    "id": 75,
+    "name": "M249 | Jungle",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m249-jungle.png",
+    "float": 0.03
+  },
+  {
+    "id": 76,
+    "name": "M249 | Impact Drill",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m249impactdrill.png",
+    "float": 0.03
+  },
+  {
+    "id": 77,
+    "name": "M249 | DownTown",
+    "type": "Pesadas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/m249downtown.png",
+    "float": 0.03
+  },
+  {
+    "id": 78,
+    "name": "Clasic Knife | Bosque boreal",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/clasicknife-borealforest.png",
+    "float": 0.03
+  },
+  {
+    "id": 79,
+    "name": "TEC 9 | Fuel Injector",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/tec9-fuelinjector.png",
+    "float": 0.03
+  },
+  {
+    "id": 80,
+    "name": "P250  | See you later",
+    "type": "Pistolas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/p250-seeyalater.png",
+    "float": 0.03
+  },
+  {
+    "id": 81,
+    "name": "Horizon Case",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/horizoncase.png",
+    "float": 0.03
+  },
+  {
+    "id": 82,
+    "name": "Dreams y Nightmare Case",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/dreamsynightmarecase.png",
+    "float": 0.03
+  },
+  {
+    "id": 83,
+    "name": "CS20 Case",
+    "type": "Cajas",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/cs20case.png",
+    "float": 0.03
+  },
+   {
+    "id": 84,
+    "name": "Dagas | FreeHand",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/dagas-freehand.png",
+    "float": 0.03
+  },{
+    "id": 85,
+    "name": "Estiletto | Ultra violeta",
+    "type": "Cuchillos",
+    "rarity": "Covert",
+    "price": 1200.00,
+    "priceChange": -0.5,
+    "image": "/skins/estiletoknife-ultraviolet.png",
+    "float": 0.03
   }
+
+
+
+
+
 ]
